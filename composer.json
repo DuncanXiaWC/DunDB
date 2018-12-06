@@ -1,6 +1,6 @@
 {
     "name": "duncanxia/dun_db",
-    "description": "Elind Printer SDK",
+    "description": "This is a php7.0 db model.",
     "type": "sdk",
     "license": "MIT",
     "authors": [
@@ -9,7 +9,9 @@
             "email": "duncanxia97@163.com"
         }
     ],
-    "require": {},
+    "require": {
+        "php": ">=7.0"
+    },
     "minimum-stability": "dev",
     "autoload": {
         "psr-4": {
