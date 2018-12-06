@@ -1,0 +1,19 @@
+{
+    "name": "duncanxia/dun_db",
+    "description": "Elind Printer SDK",
+    "type": "sdk",
+    "license": "dev",
+    "authors": [
+        {
+            "name": "duncan",
+            "email": "duncanxia97@163.com"
+        }
+    ],
+    "require": {},
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+          "duncanxia\\DunDB\\": "src/"
+        }
+      }
+}
