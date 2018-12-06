@@ -2,7 +2,7 @@
     "name": "duncanxia/dun_db",
     "description": "Elind Printer SDK",
     "type": "sdk",
-    "license": "dev",
+    "license": "MIT",
     "authors": [
         {
             "name": "duncan",
